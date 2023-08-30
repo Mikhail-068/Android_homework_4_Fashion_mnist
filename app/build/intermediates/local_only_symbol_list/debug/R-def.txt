@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo_fashion_mnist
+id button3
+id imageView
+id image_1
+id predict_1
+id select_1
+id text_1
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_predict
+string button_select
+string text_title
+string todo
+style Base.Theme.Fashion_mnist
+style Theme.Fashion_mnist
+xml backup_rules
+xml data_extraction_rules

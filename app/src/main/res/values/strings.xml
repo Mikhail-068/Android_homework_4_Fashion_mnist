@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fashion_mnist</string>
+    <string name="todo" />
+    <string name="text_title">== Lite ==</string>
+    <string name="button_select">Select</string>
+    <string name="button_predict">Predict</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fashion_mnist</string>
+    <string name="button_predict">Predict</string>
+    <string name="button_select">Select</string>
+    <string name="text_title">== Lite ==</string>
+    <string name="todo"/>
+    <style name="Base.Theme.Fashion_mnist" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Fashion_mnist" parent="Base.Theme.Fashion_mnist"/>
+</resources>
