@@ -1,2 +1,2 @@
 # Разбор ДЗ LITE (Fashion mnist)
-Обратите внимание на блокно Fashion_mnist.ipynb для обучения модели.
+Обратите внимание на блокнот Fashion_mnist.ipynb для обучения модели.
